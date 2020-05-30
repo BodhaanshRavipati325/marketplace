@@ -28,7 +28,7 @@ function App() {
             </NavItem>
             <UncontrolledDropdown nav inNavbar>
               <DropdownToggle nav caret>
-                Options
+                Optionsssssssssssss
               </DropdownToggle>
               <DropdownMenu right>
                 <DropdownItem>
@@ -124,7 +124,7 @@ function App() {
       </Card>
       </Col>
     </Row>
-    
+
   </div>
   );
 }
