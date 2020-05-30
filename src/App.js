@@ -28,7 +28,7 @@ function App() {
             </NavItem>
             <UncontrolledDropdown nav inNavbar>
               <DropdownToggle nav caret>
-                Optionsssssssssssss
+                Optionsssss
               </DropdownToggle>
               <DropdownMenu right>
                 <DropdownItem>
@@ -49,8 +49,8 @@ function App() {
       </Navbar>
       <Jumbotron fluid>
       <Container fluid>
-        <h1 className="display-3">Marketplace</h1>
-        <p className="lead">This is a site description.</p>
+        <h1 className="display-3">Agora</h1>
+        <p className="lead">The Open Marketplace</p>
       </Container>
     </Jumbotron>
     <Row>
